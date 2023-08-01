@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hello World 🌏
+
+
+  Hey guys! Nice to meet you. If you are interested in ```$ whoami```, good 🤔!? I am ${\color{yellow}Danial\ Jan}$ a **_junior_**[^1] backend developer. My favorite programming language is PHP!
+
+- 📫 If you have another question about me, feel free to send an email.
+- 💬 You can also send a message to me on [Linkedin](https://linkedin.com/in/danial-jan)
+
+[^1]: FYI I've started for 1 year.
+
 
 <!--
 **danialzash/danialzash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
