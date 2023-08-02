@@ -2,11 +2,12 @@
 
 ### About Me
 
-- Hey guys! Nice to meet you. If you are interested in ```$ whoami```, good 🤔!? I am ${\color{yellow}Danial\ Jan}$ a **_junior_**[^1] backend developer. My favorite programming language is PHP!
+- Hello everyone! It's a pleasure to make your acquaintance. If you're curious about who I am ```$ whoami```, great choice! I'm **_Danial Jan_** (aka **_Zash_**), a junior[^1] backend developer. I'm really passionate about PHP, which happens to be my favorite programming language!
+
 
 ### What You'll Find Here
 
-- Currently, my GitHub account does not contain any noteworthy repositories. However, I am in the early stages of my journey and endeavor to develop new projects as soon as possible.
+- Currently, my GitHub account does not contain any noteworthy public repositories. However, I am in the early stages of my journey and endeavor to develop new public projects as soon as possible.
 
 ### Contact with Me
 
@@ -15,7 +16,7 @@
 
 ### Contributing
 
-- If you have any interest in contributing to my projects or providing suggestions for improvements, I would greatly appreciate it. Please refer to the Contributing Guidelines for additional information.
+- If you possess an inclination towards taking part in the betterment of my existing projects or have constructive suggestions to offer, your contribution would be immensely valued. For additional information, contact me.
 
 [^1]: I have been doing it for a year now.
 
