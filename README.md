@@ -10,7 +10,7 @@
 
 ### Contact with Me
 
-- 📫 If you have any further questions about me, please don't hesitate to send an email.
+- 📫 If you have any further questions about me, please don't hesitate to send an email via [danialzash@gmail.com](mailto:danialzash@gmail.com).
 - 💬 You can send me a message on [Linkedin](https://linkedin.com/in/danial-jan) as well.
 
 ### Contributing
