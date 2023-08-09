@@ -1,4 +1,4 @@
-<p align="center"><a href="https://paystar.ir" target="_blank"><img src="https://dzash.com/images/zash.png" width="170" alt="Zash Logo"></a></p>
+<p align="center"><a href="https://dzash.com" target="_blank"><img src="https://dzash.com/images/zash.png" width="170" alt="Zash Logo"></a></p>
 
 # Hello World 🌏
 
