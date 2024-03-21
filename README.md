@@ -4,7 +4,7 @@
 
 ### About Me
 
-- Hello everyone! It's a pleasure to make your acquaintance. If you're curious about who I am ```$ whoami```, great choice! I'm **_Danial Jan_** (aka **_Zash_**), a junior[^1] backend developer. I'm really passionate about PHP, which happens to be my favorite programming language!
+- Hello everyone! It's a pleasure to make your acquaintance. If you're curious about who I am ```$ whoami```, great choice! I'm **_Danial Jan_** (aka **_Zash_**), a backend developer. I'm really passionate about PHP, which happens to be my favorite programming language!
 
 
 ### What You'll Find Here
@@ -21,7 +21,6 @@
 
 - If you possess an inclination towards taking part in the betterment of my existing projects or have constructive suggestions to offer, your contribution would be immensely valued. For additional information, contact me.
 
-[^1]: I have been doing it for a year now.
 
 
 ![PHP](https://img.shields.io/badge/php-777bb3?logo=php&logoColor=white)
