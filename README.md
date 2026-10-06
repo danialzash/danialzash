@@ -14,7 +14,7 @@
 ### Contact with Me
 
 - 📫 If you have any further questions about me, please don't hesitate to send an email via [danialzash@gmail.com](mailto:danialzash@gmail.com).
-- 💬 You can send me a message on [Linkedin](https://linkedin.com/in/danial-jan) as well.
+- 💬 You can send me a message on [Linkedin](https://linkedin.com/in/danialjan) as well.
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danialjan)
 [![Instagram](https://img.shields.io/badge/Instagram-%23833AB4.svg?logo=Instagram&logoColor=white)](https://instagram.com/danialzash) [![Twitter](https://img.shields.io/badge/Twitter-%230077B5.svg?logo=twitter&logoColor=white)](https://twitter.com/danialzash)
 ### Contributing
